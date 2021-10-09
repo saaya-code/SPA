@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saaya-code/Moderation-bot.git"
+    "url": "git+https://github.com/saaya-code/SPA.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/saaya-code/Moderation-bot/issues"
+    "url": "https://github.com/saaya-code/SPA/issues"
   }
 }
